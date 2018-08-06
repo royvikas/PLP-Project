@@ -3,6 +3,8 @@ package org.cap.demo;
 import java.text.NumberFormat;
 import java.util.Scanner;
 
+//@author<Vinitha>
+
 public class NumberToWord {
 	public static final String[] units = { "", "One", "Two", "Three", "Four",
 			"Five", "Six", "Seven", "Eight", "Nine", "Ten", "Eleven", "Twelve",
