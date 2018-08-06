@@ -1,4 +1,4 @@
-package numerical;
+package org.cap.demo;
 import java.text.NumberFormat;
 import java.util.Scanner;
 
