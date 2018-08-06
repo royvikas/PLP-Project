@@ -9,5 +9,9 @@ public class MainClass {
 
 	public static void greet() {
 		System.out.println("welcome");
+		for(int i=0;i<5;i++) {
+		System.out.println("Testing....."); }
+		System.out.println("git rep...");
+		
 	}
 }
