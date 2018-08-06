@@ -1,4 +1,4 @@
-package com.cg;
+package com.cg.demo1;
 
 import java.text.NumberFormat;
 import java.util.Scanner;
