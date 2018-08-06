@@ -3,6 +3,7 @@ package com.cg.Num;
 import java.text.NumberFormat;
 import java.util.Scanner;
 
+//@Author <Vikas Roy>
 public class NumToWord {
 
 	public static final String[] units = { "", "One", "Two", "Three", "Four",
