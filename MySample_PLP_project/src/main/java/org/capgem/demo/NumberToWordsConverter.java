@@ -1,4 +1,5 @@
-package org.cap.demo;
+package org.capgem.demo;
+
 
 //@author<aishwarya lakshmi>
 

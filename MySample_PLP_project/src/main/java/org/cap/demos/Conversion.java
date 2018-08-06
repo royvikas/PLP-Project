@@ -3,7 +3,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 /**
  * 
- * @author S.P.S.S.Swaroopa
+ * @author S.P.S.S.Swaroopa..
  *
  */
 public class Conversion {
